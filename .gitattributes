@@ -1,0 +1,2 @@
+ex3/glove.6B.100d.txt filter=lfs diff=lfs merge=lfs -text
+ex3//glove.6B.100d.txt filter=lfs diff=lfs merge=lfs -text
